@@ -6,19 +6,19 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
-    cardImage: "assets/images/project-page/quiz.jpg",
+    title: "Units Converter App",
+    cardImage: "assets/images/project-page/converter.jpeg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
+    Previewlink: "https://play.google.com/store/apps/details?id=com.bravetech.units_converter",
     Githublink: "",
   },
   {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
+    title: "8 Puzzle game",
+    cardImage: "assets/images/project-page/8puzzle.png",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
+    Previewlink: "https://play.google.com/store/apps/details?id=com.bravetech.npuzzle",
     Githublink: "",
   },
   {
@@ -26,15 +26,15 @@ const projects = [
     cardImage: "assets/images/project-page/flappybird.png",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
+    Previewlink: "https://play.google.com/store/apps/details?id=com.bravetech.flyingbird",
     Githublink: "",
   },
   {
-    title: "Exercise Tracker",
-    cardImage: "assets/images/project-page/exercise.jpg",
+    title: "Pregnancy Tracker App",
+    cardImage: "assets/images/project-page/0girlsHub.png",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-    Previewlink: "",
+    Previewlink: "https://play.google.com/store/apps/details?id=com.bravetech.girlshub",
     Githublink: "",
   },
   {
